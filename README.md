@@ -2,7 +2,7 @@
 
 
 ## Description
-The Loan Calculator Web Application is a simple web application developed using Java Servlets, Apache Tomcat, and JSP. This application allows users to calculate the monthly payment for a loan based on the principal amount, interest rate, and loan period.
+The Loan Calculator Web Application is a web application developed using Java Servlets, Apache Tomcat, and JSP. This application allows users to calculate the monthly payment for a loan based on the principal amount, interest rate, and loan period.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
